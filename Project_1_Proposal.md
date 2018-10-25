@@ -14,15 +14,15 @@ and perform some product comparisons between the most popular toys.
 # Research Questions to Answer
 Which toys receive the most reviews?
 Which toys recieve the best star ratings?
-Can the toys be easily broken down into various categories, like "building blocks" or "bikes."
-As we begin to look at the data I'm sure we'll
+Can the toys be easily broken down into various categories, like "building blocks" or "bikes?"
+
 
 # Data Sets to be Used
-
+Custom Amazon AWS pull via Amazon Athena CSV
 
 # Rough Breakdown of Tasks
-Pull Data
-Clean Data
+Pull Data (Andy)
+Clean Data (Andy)
 Create Calculations (averages, totals, categorizing)
 Create Relevant Graphing
 Output Graphs
